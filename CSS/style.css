@@ -20,6 +20,8 @@ main{
     margin-left: 10px;
 }
 
+/* main */
+
 .title{
     color: gray;
 }
@@ -31,6 +33,12 @@ h1{
 
 #color-title{
     color: rgb(71, 195, 236);
+}
+
+.img-exp{
+    font-size: 10px;
+    font-style: italic;
+    font-weight: 100;
 }
 
 .yellow-par{
@@ -46,6 +54,8 @@ ul{
     padding-left: 0;
     margin-left: 10px;
 }
+
+/* tabella */
 
 table{
     border-collapse: collapse;
