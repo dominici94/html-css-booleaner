@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+main{
+    margin: 10px;
+}
+
 /* header */
 
 #header-container{
@@ -13,5 +17,18 @@
 #header-img{
     height: 50%;
     margin-top: 80px;
-    margin-left: 230px;
+    margin-left: 10px;
+}
+
+#title{
+    color: gray;
+}
+
+h1{
+    font-size: 3em;
+    color: black;
+}
+
+#color-title{
+    color: rgb(71, 195, 236);
 }
