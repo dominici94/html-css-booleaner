@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+/* header */
+
+#header-container{
+    height: 175px;
+    background-color: #23acda;
+    background-image: url("../img/pattern.png");
+}
+
+#header-img{
+    height: 50%;
+    margin-top: 80px;
+    margin-left: 230px;
+}
