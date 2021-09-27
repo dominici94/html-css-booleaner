@@ -46,3 +46,25 @@ ul{
     padding-left: 0;
     margin-left: 10px;
 }
+
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+
+thead{
+    color: white;
+    background-color: blue;
+}
+
+.bg-lightblue{
+    background-color: lightskyblue;
+}
+
+.short{
+    width: 25%;
+}
+
+.long{
+    width: 50%;
+}
